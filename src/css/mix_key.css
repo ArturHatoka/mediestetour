@@ -1,0 +1,47 @@
+@keyframes lazy_load {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+@keyframes btn_shadow {
+  from {
+    box-shadow: 1px 1px 4px 0 black;
+    filter: brightness(1); }
+  to {
+    box-shadow: 1px 1px 2px 0 black;
+    filter: brightness(1.1); } }
+@keyframes btn_blik {
+  from {
+    background: linear-gradient(to top, #e0ff65 75%, #ffffff 100%); }
+  to {
+    background: linear-gradient(to bottom, #e0ff65 65%, #ffffff 100%); } }
+@keyframes sticker_toggle {
+  from {
+    bottom: 5%; }
+  10% {
+    bottom: 3%; }
+  20% {
+    bottom: 5%; }
+  30% {
+    bottom: 3%; }
+  40% {
+    bottom: 5%; }
+  50% {
+    bottom: 3%; }
+  60% {
+    bottom: 5%; }
+  70% {
+    bottom: 3%; }
+  80% {
+    bottom: 5%; }
+  90% {
+    bottom: 3%; }
+  to {
+    bottom: 5%; } }
+@keyframes sticker_active {
+  from {
+    bottom: 5%;
+    opacity: 1; }
+  to {
+    bottom: -50px;
+    opacity: 0; } }

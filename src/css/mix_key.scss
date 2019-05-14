@@ -1,0 +1,125 @@
+$main_color: #404040 ;
+$sec_color: #323232;
+$sup_color: #00274c;
+$red_color: #e96656;
+$green_color: #34d293;
+$blue_color: #3ab0e2;
+$yellow_color: #f7d861;
+$green_background: rgba(52, 210, 147, 0.8);
+$gray_color: #ececec;
+@mixin btn{
+  position: relative;
+  display: flex;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.1rem;
+  border-radius: 20px;
+  background: linear-gradient(to top, $sup_color 75%, $main_color 100%);
+  box-shadow: 1px 1px 4px 0 black;
+  font-weight: 600;
+}
+
+@keyframes lazy_load{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+@mixin lazy_load{
+  animation: lazy_load 1.5s forwards;
+}
+@mixin too_lazy_load{
+  animation: lazy_load 8s forwards;
+}
+@keyframes btn_shadow {
+  from {
+    box-shadow: 1px 1px 4px 0 black;
+    filter: brightness(1);
+  }
+  to{
+    box-shadow: 1px 1px 2px 0 black;
+    filter: brightness(1.1);
+  }
+}
+@mixin btn_shadow{
+  animation: btn_shadow 0.5s forwards;
+}
+
+@keyframes btn_blik{
+  from{
+    background: linear-gradient(to top, $sup_color 75%, #ffffff 100%) ;
+  }
+  to{
+    background: linear-gradient(to bottom, $sup_color 65%, #ffffff 100%) ;
+  }
+}
+@mixin btn_blink{
+  animation: btn_blik 25ms forwards;
+}
+
+@keyframes sticker_toggle {
+  from{
+    bottom: 5%;
+  }
+  10%{
+    bottom: 3%;
+  }
+  20%{
+    bottom: 5%;
+  }
+  30%{
+    bottom: 3%;
+  }
+  40%{
+    bottom: 5%;
+  }
+  50%{
+    bottom: 3%;
+  }
+  60%{
+    bottom: 5%;
+  }
+  70%{
+    bottom: 3%;
+  }
+  80%{
+    bottom: 5%;
+  }
+  90%{
+    bottom: 3%;
+  }
+  to{
+    bottom: 5%;
+  }
+}
+@mixin sticker_toggle{
+  animation: sticker_toggle 8s infinite;
+}
+
+@keyframes sticker_active {
+  from{
+    bottom: 5%;
+    opacity: 1;
+  }
+  to{
+    bottom: -50px;
+    opacity: 0;
+  }
+}
+@mixin sticker_active{
+  animation: sticker_active 0.4s forwards;
+}
+@mixin nav_btn{
+  position: relative;
+  display: flex;
+  padding: 5px 15px;
+  margin: 0 10px;
+  font-weight: 600;
+}
+@mixin nav_btn_hover{
+  color: white;
+  background-color: black;
+  border-radius: 50px;
+}
