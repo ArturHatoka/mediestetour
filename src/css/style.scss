@@ -76,17 +76,18 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40%;
+    width: 55%;
     &__list{
       list-style: none;
       position: relative;
       display: flex;
       padding: 0;
       width: 100%;
-      justify-content: center;
+      justify-content: space-between;
       &-point{
         padding: 0 10px;
         &--link{
+          position: relative;
           &:hover, &.active{
             color: $sup_color;
           }
@@ -99,6 +100,7 @@ section{
               border: 4px solid transparent;
               border-top: 5px solid $main_color;
               top: 50%;
+              right: 5%;
               transform: translateY(-2px) translateX(8px);
             }
             &:hover:after{
@@ -108,10 +110,10 @@ section{
         }
         &--pop-up{
           display: none;
-          position: absolute;
-          right: 0;
-          width: 250%;
-          top: 50px;
+          position: fixed;
+          right: 10vw;
+          width: 80vw;
+          top: 80px;
           flex-wrap: wrap;
           border: 1px solid $sec_color;
           background: white;

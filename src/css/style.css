@@ -119,36 +119,39 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40%; }
+    width: 55%; }
     .header-nav__list {
       list-style: none;
       position: relative;
       display: flex;
       padding: 0;
       width: 100%;
-      justify-content: center; }
+      justify-content: space-between; }
       .header-nav__list-point {
         padding: 0 10px; }
-        .header-nav__list-point--link:hover, .header-nav__list-point--link.active {
-          color: #00274c; }
-        .header-nav__list-point--link.pop-up {
-          padding-right: 15px;
-          cursor: pointer; }
-          .header-nav__list-point--link.pop-up:after {
-            content: '';
-            position: absolute;
-            border: 4px solid transparent;
-            border-top: 5px solid #404040;
-            top: 50%;
-            transform: translateY(-2px) translateX(8px); }
-          .header-nav__list-point--link.pop-up:hover:after {
-            border-top: 5px solid #00274c; }
+        .header-nav__list-point--link {
+          position: relative; }
+          .header-nav__list-point--link:hover, .header-nav__list-point--link.active {
+            color: #00274c; }
+          .header-nav__list-point--link.pop-up {
+            padding-right: 15px;
+            cursor: pointer; }
+            .header-nav__list-point--link.pop-up:after {
+              content: '';
+              position: absolute;
+              border: 4px solid transparent;
+              border-top: 5px solid #404040;
+              top: 50%;
+              right: 5%;
+              transform: translateY(-2px) translateX(8px); }
+            .header-nav__list-point--link.pop-up:hover:after {
+              border-top: 5px solid #00274c; }
         .header-nav__list-point--pop-up {
           display: none;
-          position: absolute;
-          right: 0;
-          width: 250%;
-          top: 50px;
+          position: fixed;
+          right: 10vw;
+          width: 80vw;
+          top: 80px;
           flex-wrap: wrap;
           border: 1px solid #323232;
           background: white; }
