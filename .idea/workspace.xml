@@ -2,48 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ca746c-d749-4b42-b964-ce465fb443dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/acupuncture.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/acupuncture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -381,12 +362,12 @@
       <workItem from="1557298197972" duration="15768000" />
       <workItem from="1557727707112" duration="26487000" />
       <workItem from="1557822825785" duration="11791000" />
-      <workItem from="1560240195384" duration="3343000" />
+      <workItem from="1560240195384" duration="3754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57389000" />
+    <option name="totallyTimeSpent" value="57800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
