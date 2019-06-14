@@ -173,7 +173,7 @@ section {
                 padding-left: 15px;
                 border-left: 5px solid #00274c;
                 font-weight: bold;
-                height: 25px;
+                height: max-content;
                 align-items: center; }
                 .header-nav__list-point--pop-up__block-list--title:hover {
                   color: #00274c; }

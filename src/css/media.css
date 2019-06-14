@@ -1,3 +1,100 @@
+@media screen and (max-width: 1024px) {
+  .header-nav__list-point--pop-up {
+    right: 0;
+    width: 100vw; }
 
+  .header-nav__list-point--link.pop-up:after {
+    transform: translateY(-2px) translateX(40px); }
 
-/*# sourceMappingURL=media.css.map */
+  .main__about__box-title {
+    font-size: 45px; }
+
+  main.main {
+    overflow: hidden; } }
+@media screen and (max-width: 768px) {
+  .header-nav__list-point--pop-up {
+    padding: 0; }
+
+  .header-nav__list-point--link.pop-up:after {
+    transform: translateY(-2px) translateX(40px); }
+
+  .main__about__box {
+    flex-direction: column;
+    width: 100%; }
+
+  .main__about__box-title {
+    width: 100%;
+    font-size: 50px; }
+
+  .main__about__box-txt {
+    width: 100%; }
+
+  .main__about__box__skills {
+    flex-direction: column;
+    width: 100%;
+    align-items: center; }
+
+  .main__about__box__skills-item {
+    width: max-content; } }
+@media screen and (max-width: 425px) {
+  #header {
+    width: 100vw;
+    height: 105px; }
+
+  .header {
+    flex-direction: column; }
+
+  .header-nav {
+    width: 100%;
+    font-size: 0.7rem; }
+
+  .header-nav__list-point--pop-up__block-list--title {
+    margin-left: 0;
+    padding-left: 5px; }
+
+  .header-nav__list-point--link.pop-up:after {
+    transform: translateY(0px) translateX(25px);
+    border: 5px solid transparent;
+    border-top: 7px solid #404040; }
+
+  .main__clinics__body__box {
+    width: 33%; }
+
+  .main__request {
+    overflow: hidden; }
+
+  .header-nav__list-point--pop-up {
+    top: 105px;
+    right: 0;
+    width: 100vw;
+    padding: 0;
+    font-size: 0.6rem; }
+
+  .header-nav__list-point--pop-up__block {
+    width: 33%;
+    padding: 5px; }
+
+  .header-nav__list-point--pop-up__block-list--point-link {
+    padding: 3px 0 3px 10px; }
+
+  .main__contact-title {
+    line-height: 1.2; }
+
+  .medical-boxes__box {
+    width: 90%; }
+
+  .main__about__logo {
+    flex-direction: column;
+    width: 100%; }
+
+  .team__box {
+    width: 100%; }
+
+  .page {
+    padding: 0 10px 40px; }
+
+  .main-title {
+    padding: 0 10px; } }
+@media screen and (max-width: 320px) {
+  .header-nav__list-point--pop-up__block-list--point-link {
+    padding: 1px 0 1px 10px; } }

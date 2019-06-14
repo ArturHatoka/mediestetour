@@ -136,7 +136,7 @@ section{
                 padding-left: 15px;
                 border-left: 5px solid $sup_color;
                 font-weight: bold;
-                height: 25px;
+                height: max-content;
                 align-items: center;
                 &:hover{
                   color: $sup_color;

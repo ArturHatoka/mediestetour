@@ -3,18 +3,45 @@
   <component name="ChangeListManager">
     <list default="true" id="68ca746c-d749-4b42-b964-ce465fb443dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/аvicenna/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/аvicenna/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/аvicenna/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/аvicenna/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" beforeDir="false" afterPath="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,82 +52,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2771">
-              <caret line="163" column="20" selection-start-line="163" selection-start-column="20" selection-end-line="163" selection-end-column="20" />
+            <state relative-caret-position="3230">
+              <caret line="190" column="73" selection-start-line="190" selection-start-column="73" selection-end-line="190" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html">
+        <entry file="file://$PROJECT_DIR$/src/css/media.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="210" column="20" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="824">
-              <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="204" column="20" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="262" column="25" lean-forward="true" selection-start-line="262" selection-start-column="25" selection-end-line="262" selection-end-column="25" />
+            <state relative-caret-position="129">
+              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+            <state relative-caret-position="442">
+              <caret line="251" column="96" selection-start-line="251" selection-start-column="96" selection-end-line="251" selection-end-column="96" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html">
+        <entry file="file://$PROJECT_DIR$/src/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="217" column="35" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+            <state relative-caret-position="2027">
+              <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -158,41 +140,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/js/scripts.js" />
         <option value="$PROJECT_DIR$/src/medical-team.html" />
         <option value="$PROJECT_DIR$/medical-clinics/Aesthetic and Plastic Surgery.html" />
         <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plasti-surgery.html" />
         <option value="$PROJECT_DIR$/src/css/mix_key.scss" />
-        <option value="$PROJECT_DIR$/src/css/style.scss" />
         <option value="$PROJECT_DIR$/contact-us.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" />
         <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health.html" />
         <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics.html" />
         <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery.html" />
@@ -201,14 +153,44 @@
         <option value="$PROJECT_DIR$/medical-clinics/acupuncture.html" />
         <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic.html" />
         <option value="$PROJECT_DIR$/medical-team.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" />
         <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html" />
         <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html" />
         <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html" />
-        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html" />
         <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html" />
+        <option value="$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html" />
+        <option value="$PROJECT_DIR$/src/css/style.scss" />
+        <option value="$PROJECT_DIR$/src/css/media.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -352,18 +334,20 @@
       <workItem from="1557727707112" duration="26487000" />
       <workItem from="1557822825785" duration="11791000" />
       <workItem from="1560240195384" duration="9705000" />
-      <workItem from="1560250087528" duration="2207000" />
+      <workItem from="1560250087528" duration="2991000" />
+      <workItem from="1560406258239" duration="23818000" />
+      <workItem from="1560492031104" duration="2657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65958000" />
+    <option name="totallyTimeSpent" value="93217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -388,7 +372,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/jquery.sticky.js" />
     <entry file="file://$PROJECT_DIR$/../fiery-site.tk/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -417,206 +400,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="188" column="60" lean-forward="true" selection-start-line="188" selection-start-column="60" selection-end-line="189" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="251" column="4" lean-forward="true" selection-start-line="251" selection-start-column="4" selection-end-line="297" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="281" column="14" lean-forward="true" selection-start-line="281" selection-start-column="14" selection-end-line="281" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="268" column="79" lean-forward="true" selection-start-line="268" selection-start-column="79" selection-end-line="268" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -676,66 +463,269 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="20" selection-start-line="163" selection-start-column="20" selection-end-line="163" selection-end-column="20" />
+        <state relative-caret-position="3689">
+          <caret line="217" column="35" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/leeching-hirudotherapy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+        <state relative-caret-position="680">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-for-slimming.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+        <state relative-caret-position="289">
+          <caret line="187" column="47" lean-forward="true" selection-start-line="187" selection-start-column="47" selection-end-line="187" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/varicose-vein-clinic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/moustache-eyebrow-transplants.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="210" column="20" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
+        <state relative-caret-position="952">
+          <caret line="239" column="20" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/endovenous-laser-ablation-treatment-for-varicose-veins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="266" column="16" selection-start-line="266" selection-start-column="16" selection-end-line="266" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/acupuncture/acupuncture-treatment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="277" lean-forward="true" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/obesity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="352" column="16" lean-forward="true" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/avicennas-medicine.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="609">
           <caret line="204" column="20" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/bloodletting-treatments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="217" column="35" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="35" />
+        <state relative-caret-position="303">
+          <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html">
+    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/regional-slimming.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="262" column="25" lean-forward="true" selection-start-line="262" selection-start-column="25" selection-end-line="262" selection-end-column="25" />
+        <state relative-caret-position="405">
+          <caret line="234" column="20" selection-start-line="234" selection-start-column="20" selection-end-line="234" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-mesotherapy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="210" column="20" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplant.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+        <state relative-caret-position="340">
+          <caret line="259" column="20" selection-start-line="259" selection-start-column="20" selection-end-line="259" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/healthy-living-and-eating-clinic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/varicose-vein-clinic/radiofrequency-ablation-treatment-for-varicose-veins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="190" column="20" lean-forward="true" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/nasal-aesthetics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="266" column="43" selection-start-line="266" selection-start-column="43" selection-end-line="266" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/dental-implants.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="268" column="20" selection-start-line="268" selection-start-column="20" selection-end-line="268" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/hair-transplants-for-women.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="202" column="20" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/breast-aesthetics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="203" column="42" selection-start-line="203" selection-start-column="42" selection-end-line="203" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/teeth-whitening.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="231" column="20" selection-start-line="231" selection-start-column="20" selection-end-line="231" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/avicennas-traditional-medicine/cupping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/clip-and-swing-face-lift.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="201" column="20" selection-start-line="201" selection-start-column="20" selection-end-line="201" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/slimming.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="210" column="20" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/laser-epilation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="277" column="20" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/porcelain-laminates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="244" column="20" selection-start-line="244" selection-start-column="20" selection-end-line="244" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/skincare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="190" column="95" selection-start-line="190" selection-start-column="95" selection-end-line="190" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/dietician.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="206" column="20" selection-start-line="206" selection-start-column="20" selection-end-line="206" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/hair-transplantaion-and-health/percutan-hair-transplant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="208" column="20" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/laser-lipolysis-plus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="278" column="20" selection-start-line="278" selection-start-column="20" selection-end-line="278" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/dermatology-and-medical-aesthetics/dermal-fillers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="237" column="20" selection-start-line="237" selection-start-column="20" selection-end-line="237" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/aesthetic-dentistry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="234" column="20" selection-start-line="234" selection-start-column="20" selection-end-line="234" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/face-aesthetics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/healthy-living-and-eating-clinic/tailored-diet-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="215" column="26" lean-forward="true" selection-start-line="215" selection-start-column="26" selection-end-line="215" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/oral-and-dental-health-clinic/orthodontic-treatment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-clinics/aesthetic-and-plastic-surgery/genital-area.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="73" selection-start-line="190" selection-start-column="73" selection-end-line="190" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2027">
+          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="251" column="96" selection-start-line="251" selection-start-column="96" selection-end-line="251" selection-end-column="96" />
         </state>
       </provider>
     </entry>
